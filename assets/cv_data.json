@@ -22,9 +22,11 @@
                 "- ► My history 1",
                 "- ► My site: mysite.com"
                 ]
-            },
+            }
+        ],
         "hobbies": [
             "\uD83C\uDFC6 Writing CVs"
+        ]
     },
     "hu": {
         "name": "Macilaci",
@@ -49,8 +51,10 @@
                 "- ► My history 1",
                 "- ► My site: mysite.com"
                 ]
-            },
+            }
+        ],
         "hobbies": [
             "\uD83C\uDFC6 CV írás"
-    },
+        ]
+    }
 }
