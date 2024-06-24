@@ -1,12 +1,18 @@
+[server]
+headless = true
+enableCORS=false
+port = 80
+
+
 [theme]
 # Primary accent color for interactive elements.
-primaryColor = "#d33682"
+primaryColor = "#945600"
 
 # Background color for the main content area.
-backgroundColor = "#002b36"
+backgroundColor = "#424B54"
 
 # Background color used for the sidebar and most interactive widgets.
-secondaryBackgroundColor = "#586e75"
+secondaryBackgroundColor = "#C75000"
 
 # Color used for almost all text.
-textColor = "#fff"
+textColor = "#E4DFDA"

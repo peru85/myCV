@@ -1,0 +1,56 @@
+{
+    "en": {
+        "name": "Yogi Bear",
+        "description": "",
+        "title": "Chief basket inspector",
+        "diploma": "",
+        "experience-summary": [
+            "- Something",
+            "- Something else"
+        ],
+        "certifications": [
+            "- This",
+            "- That"
+        ],
+        "hard-skills": [
+            "- Skill 1",
+            "- Skill 2"
+        ],
+        "experience": [
+            {"position": "\uD83D\uDEA7 **Self employed**", "company": "My Company", "years": "2020-Present",
+            "history": [
+                "- ► My history 1",
+                "- ► My site: mysite.com"
+                ]
+            },
+        "hobbies": [
+            "\uD83C\uDFC6 Writing CVs"
+    },
+    "hu": {
+        "name": "Macilaci",
+        "description": "",
+        "title": "Kosárügyi főmunkatárs",
+        "diploma": "",
+        "experience-summary": [
+            "- Something",
+            "- Something else"
+        ],
+        "certifications": [
+            "- This",
+            "- That"
+        ],
+        "hard-skills": [
+            "- Skill 1",
+            "- Skill 2"
+        ],
+        "experience": [
+            {"position": "\uD83D\uDEA7 **Self employed**", "company": "My Company", "years": "2020-Present",
+            "history": [
+                "- ► My history 1",
+                "- ► My site: mysite.com"
+                ]
+            },
+        "hobbies": [
+            "\uD83C\uDFC6 CV írás"
+    },
+}
