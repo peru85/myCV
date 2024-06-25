@@ -32,10 +32,10 @@ DESCRIPTION = data["description"]
 #"""
 #Medior/Senior Systems/DevOps/Cloud Engineer with an eye always on Security, keeping your IT systems up and running!
 #"""
-EMAIL = "***REMOVED***"
+EMAIL = ""
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://linkedin.com/in/peter-r-86554089",
-    "GitHub": "https://github.com/peru85",
+    "LinkedIn": "",
+    "GitHub": "",
 }
 
 HOBBIES = data["hobbies"]
